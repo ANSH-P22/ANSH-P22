@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Ansh
 
-<!--
-**ANSH-P22/ANSH-P22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Post Graduate Teacher (PGT)  
+📘 Subjects: Commerce / Social Science  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🏫 About Me
+I am a Post Graduate Teacher exploring technology step by step.
+I am using GitHub to build a simple and professional profile for learning and growth.
+
+---
+
+## 🛠 Skills
+- Teaching & Classroom Management  
+- MS Excel  
+- Documentation  
+- Learning Git & GitHub  
+
+---
+
+## 🎯 Current Focus
+- Building a professional online presence  
+- Learning consistently without pressure  
+
+---
+
+📫 Contact  
+Email: add-your-email-here
