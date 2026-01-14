@@ -1,30 +1,40 @@
-# Hi 👋 I'm Ansh
+# 👋 Hi, I'm Ansh
 
-🎓 Post Graduate Teacher (PGT)  
-📘 Subjects: Commerce / Social Science  
-📍 India  
+🎓 **Post Graduate Teacher (PGT)**  
+📘 **Subjects:** Commerce / Social Science  
+📍 **India**
 
 ---
 
 ## 👨‍🏫 About Me
-I am a Post Graduate Teacher exploring technology step by step.
-I am using GitHub to build a simple and professional profile for learning and growth.
+I am a dedicated Post Graduate Teacher with a strong interest in education, documentation, and self-growth.  
+I am using GitHub as a **professional portfolio** to organize my work, learning, and teaching resources.
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Strengths
 - Teaching & Classroom Management  
-- MS Excel  
-- Documentation  
+- Lesson Planning & Notes Preparation  
+- MS Excel (records, marksheets, analysis)  
+- Documentation & File Management  
 - Learning Git & GitHub  
 
 ---
 
+## 📂 What You’ll Find Here
+- 📘 Teacher notes & study material  
+- 📊 Excel-based academic & finance records  
+- 🧠 Learning notes (GitHub, productivity)  
+- 🐣 Beginner-friendly practice work  
+
+---
+
 ## 🎯 Current Focus
-- Building a professional online presence  
+- Building a clean professional profile  
+- Organizing teaching resources digitally  
 - Learning consistently without pressure  
 
 ---
 
-📫 Contact  
-Email: ansh17092004@gmail.com
+## 📫 Contact
+📧 Email: ansh17092004@gmail.com
